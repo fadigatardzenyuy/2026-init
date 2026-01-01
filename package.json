@@ -1,0 +1,17 @@
+{
+  "name": "2026-init",
+  "version": "1.0.0",
+  "description": "System boot sequence for the year 2026",
+  "main": "init_2026.js",
+  "scripts": {
+    "start": "node init_2026.js"
+  },
+  "keywords": [
+    "2026",
+    "cli",
+    "new-year",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
